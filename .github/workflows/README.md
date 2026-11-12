@@ -13,7 +13,7 @@ A personal resume website hosted on AWS, with a serverless visitor counter and a
 ## Services used
 
 | Service | Purpose |
-|---|---|
+
 | Amazon S3 | Stores the website files (HTML, CSS, JavaScript) in a private bucket with public access blocked |
 | Amazon CloudFront | Serves the site over HTTPS |
 | AWS Lambda (Python) | Updates and returns the visitor count |
